@@ -28,6 +28,6 @@
      }
   },
   "website": "",
-  "repository": "",
+  "repository": "https://github.com/XTesla3/shadowsocks-heroku",
   "stack": "container"
  }
